@@ -30,4 +30,5 @@ URL: https://bioconductor.org/packages/ShortRead,
     https://github.com/Bioconductor/ShortRead,
     https://support.bioconductor.org/tag/ShortRead
 BugReports: https://github.com/Bioconductor/ShortRead/issues
+VignetteBuilder: knitr
 
